@@ -3,7 +3,7 @@
 <p align="center">Cardápio online de doces e bolos</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/TALITAPAVANI/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/pavani-confeitaria/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -30,8 +30,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/TALITAPAVANI.git
-cd TALITAPAVANI
+git clone https://github.com/santanadesouzanicolas32-sketch/pavani-confeitaria.git
+cd pavani-confeitaria
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
